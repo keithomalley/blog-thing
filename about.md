@@ -7,7 +7,7 @@ feature_image_url: https://images.unsplash.com/photo-1451417379553-15d8e8f49cde?
 
 Hi, I'm a person. No, really! This person:
 
-![This is an image](/assets/face.jpg)
+![This is an image](/assets/face.jpg){: .centered-image}
 
 Specifically I'm a 24-year-old recent graduate of Computing/Multimedia Programming with an interest in loads of things:
 
