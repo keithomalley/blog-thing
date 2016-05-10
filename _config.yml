@@ -11,10 +11,10 @@ email: keithcharlieom@gmail.com
 description: >
   Hey there, my name is Keith and I love making things, like music, 3D models, websites, Unity games and messing around with computers
 baseurl: ""
-url: "http://keithomalley.com"
+url: "http://keithomalley.github.io"
 twitter_username: keithomaille
-github_username:  keithomalley
-dribbble_username:  keithomalley
+github_username: keithomalley
+dribbble_username: keithomalley
 
 # Build settings
 markdown: kramdown
