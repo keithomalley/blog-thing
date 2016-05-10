@@ -13,8 +13,8 @@ Specifically I'm a 24-year-old recent graduate of Computing/Multimedia Programmi
 
 - Ruby on Rails
 - HTML/CSS/Javascript
-- Node
-- React.js
+- Node js
+- React js
 - 3D Modeling
 - Game Design
 - World-Building
