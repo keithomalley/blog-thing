@@ -16,6 +16,8 @@ Specifically I'm a 24-year-old recent graduate of Computing/Multimedia Programmi
 - Node js
 - React js
 - 3D Modeling
+- User Interfaces
+- User Experience
 - Game Design
 - World-Building
 - Unity
