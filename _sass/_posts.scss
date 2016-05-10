@@ -6,3 +6,10 @@
   background-size:cover;
   background-position: center;
 }
+
+.post-content {
+  img {
+    max-width:300px;
+    text-align:center;
+  }
+}
