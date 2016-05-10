@@ -9,7 +9,7 @@ Hi, I'm a person. No, really! This person:
 
 ![This is an image](/assets/face.jpg)
 
-Specifically I'm a 24-year-old recent graduate of Computing/Multimedia Programming with an interest in soooo many things.
+Specifically I'm a 24-year-old recent graduate of Computing/Multimedia Programming with an interest in loads of things:
 
 - Ruby on Rails
 - HTML/CSS/Javascript
