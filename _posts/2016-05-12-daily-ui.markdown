@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Daily UI - Day 1"
+date:   2016-05-12 15:08:00 +0000
+categories: design practice job-hunt
+feature_image_url: /assets/dailyui_001_bg.png
+---
+Starting today I'm going to get into doing the [DailyUI challenge][daily_ui]. It's a 100-day challenge that sends you a UI element topic to design every day (except weekends) so that you can practice in your off time.
+
+This is extremely handy as I've found that part of the problem with practice is deciding what to make and being driven to make it. The [first day][dailyui_001] is a signup form so I made it pretty simple. I'm thinking after the first round of the UI challenge I might go back and revisit each design I make and rebound them on dribbble to improve on them.
+
+![Day 1 was a sign up form](https://d13yacurqjgara.cloudfront.net/users/194727/screenshots/2710402/dailyui_001.png)
+
+I'll be posting up what I make both here and on [dribbble][dribbble_profile] so I can keep track of it and share it with people while I job-hunt 🙂 Also going to do this so I can beef up my portfolio, and share over on [twitter][twitter_profile] to start getting into working on things!
+
+[daily_ui]: http://www.dailyui.co
+[dribbble_profile]: https://dribbble.com/keithomalley
+[dailyui_001]: https://dribbble.com/shots/2710402-Sign-Up-form
+[twitter_profile]: https://twitter.com/keithomaille
