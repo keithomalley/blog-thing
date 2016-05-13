@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Daily UI - Day 2"
-date:   2016-05-13 22:08:00 +0000
+date:   2016-05-13 20:00:00 +0000
 categories: design
 feature_image_url: /assets/dailyui_002_bg.png
 ---
-Continuing on the [DailyUI challenge][daily_ui]! 😁 The [second day][dailyui_002] is a credit card checkout form, I tried experimenting with more gradients and drop-shadows today and it turned out pretty well! The design is over on [dribbble][dailyui_002]
+Continuing on the [DailyUI challenge][daily_ui]! 😁 The [second day][dailyui_002] is a credit card checkout form, I tried experimenting with more gradients and drop-shadows today and it turned out pretty well! The design is over on [dribbble][dailyui_002].
 
 ![Day 2 is a credit card checkout form](https://d13yacurqjgara.cloudfront.net/users/194727/screenshots/2714056/dailyui_002.png)
 
