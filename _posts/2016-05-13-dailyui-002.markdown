@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Daily UI - Day 2"
+date:   2016-05-13 22:08:00 +0000
+categories: design
+feature_image_url: /assets/dailyui_002_bg.png
+---
+Continuing on the [DailyUI challenge][daily_ui]! 😁 The [second day][dailyui_002] is a credit card checkout form, I tried experimenting with more gradients and drop-shadows today and it turned out pretty well! The design is over on [dribbble][dailyui_002]
+
+![Day 2 is a credit card checkout form](https://d13yacurqjgara.cloudfront.net/users/194727/screenshots/2714056/dailyui_002.png)
+
+[daily_ui]: http://www.dailyui.co
+[dribbble_profile]: https://dribbble.com/keithomalley
+[dailyui_002]: https://dribbble.com/shots/2714056-Credit-Card-Checkout-Form
+[twitter_profile]: https://twitter.com/keithomaille
