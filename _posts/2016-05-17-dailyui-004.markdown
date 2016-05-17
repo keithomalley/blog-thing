@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Daily UI - Day 4"
+date:   2016-05-17 10:00:00 +0000
+categories: design
+feature_image_url: /assets/dailyui_004_bg.png
+---
+Today's [DailyUI challenge][daily_ui]! is a [calculator][dailyui_004], I made it with some clean white backgrounds and drop-shadows, highlighting some elements with colour and others with size. I'm really getting into using subtle gradients again to which makes a lot of difference to designs I find.
+
+![Simple Calculator](https://d13yacurqjgara.cloudfront.net/users/194727/screenshots/2720961/dailyui_004.png)
+
+Pretty happy with this one, design time was only about ~30 mins - 1 hour. As usual you can see my design posted on [dribbble][dailyui_004].
+
+[daily_ui]: http://www.dailyui.co
+[dribbble_profile]: https://dribbble.com/keithomalley
+[dailyui_004]: https://dribbble.com/shots/2720961-Calculator-Design
