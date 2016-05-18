@@ -4,6 +4,7 @@ title:  "Daily UI - Day 3"
 date:   2016-05-16 10:00:00 +0000
 categories: design
 feature_image_url: /assets/dailyui_003_bg.png
+thumbnail: https://d13yacurqjgara.cloudfront.net/users/194727/screenshots/2718613/dailyui_003.png
 ---
 Third day of the [DailyUI challenge][daily_ui]! 😁 The [third day][dailyui_003] is a landing page and I chose to make one for a VR game I made for college.
 

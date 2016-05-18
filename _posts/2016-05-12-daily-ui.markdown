@@ -4,6 +4,7 @@ title:  "Daily UI - Day 1"
 date:   2016-05-12 10:08:00 +0000
 categories: design
 feature_image_url: /assets/dailyui_001_bg.png
+thumbnail: https://d13yacurqjgara.cloudfront.net/users/194727/screenshots/2710402/dailyui_001.png
 ---
 Starting today I'm going to get into doing the [DailyUI challenge][daily_ui]. It's a 100-day challenge that sends you a UI element topic to design every day (except weekends) so that you can practice in your off time.
 

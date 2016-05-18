@@ -13,8 +13,11 @@ feature_image_url: https://images.unsplash.com/photo-1452716726610-30ed68426a6b?
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.content }}</a>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        {{post.excerpt}}
+        {% if post.thumbnail %}<img src="{{post.thumbnail}}" />{% endif %}
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">More...</a>
       </li>
     {% endfor %}
   </ul>
