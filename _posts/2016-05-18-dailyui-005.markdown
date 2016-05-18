@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Daily UI - Day 5"
+date:   2016-05-18 10:00:00 +0000
+categories: design
+feature_image_url: /assets/dailyui_005_bg.png
+---
+Today's [DailyUI][daily_ui]! is an [app icon][dailyui_005], been continuing the subtle gradients thing but I couldn't get much inspiration for this one so it's pretty minimal. I went with an OSX-style icon for a night-time/weather app or some sort (you can tell how uninspired I am today, not even concrete idea).
+
+Anyway it's a process to come up with stuff! :)
+
+![Nighttime Logo](https://d13yacurqjgara.cloudfront.net/users/194727/screenshots/2722901/dailyui_005.png)
+
+As usual you can see my design posted on [dribbble][dailyui_004].
+
+[daily_ui]: http://www.dailyui.co
+[dribbble_profile]: https://dribbble.com/keithomalley
+[dailyui_005]: https://dribbble.com/shots/2722901-DailyUI-005-App-Icon
